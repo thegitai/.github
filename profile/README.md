@@ -42,7 +42,7 @@ The client that runs on your machine is source-visible, so you can read exactly 
 
 Server-owned behavior is not included: provider access, model routing, prompts, orchestration, and entitlement enforcement stay on the server. The client is untrusted by design — every security decision is enforced server-side.
 
-→ [**Trust & Privacy**](https://thegit.ai/docs/safety/trust-and-privacy)
+→ [**Read the client source**](https://github.com/thegitai/thegitai-cli) · [Trust & Privacy](https://thegit.ai/docs/safety/trust-and-privacy)
 
 <div align="center">
 <sub>TheGitAI is a product of Atlast Technologies. Source-visible, not open source — see the repository licence.</sub>
